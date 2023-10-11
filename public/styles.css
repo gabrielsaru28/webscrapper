@@ -1,0 +1,27 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+pre {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    white-space: pre-wrap;
+}
